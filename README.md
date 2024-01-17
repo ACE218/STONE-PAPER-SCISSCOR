@@ -1,4 +1,4 @@
-<h1 align="center">STONE PAPER SCISSOR Biswajit Bauri</h1>
+<h1 align="center">STONE PAPER SCISSOR</h1>
 <h3 align="center">A Small Game of Stone Paper Scissor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ace218&label=Profile%20views&color=0e75b6&style=flat" alt="ace218" /> </p>
