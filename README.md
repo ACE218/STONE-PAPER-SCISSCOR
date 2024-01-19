@@ -10,12 +10,14 @@
 <h3 align="center">Summary
 This repository contains the code for a simple Stone Paper Scissors game implemented using HTML, CSS, and JavaScript. The game allows users to play against the computer by choosing one of the three options: Stone, Paper, or Scissors.
 
-<h3 align="center">Features:
+<h3 align="center">Features:</h3>
 User Interface:
 
 The game has a clean and responsive interface designed with HTML and styled using CSS.
 Images representing the player's and computer's choices are displayed dynamically during gameplay.
-Game Logic:
+
+
+<h3 align="center">Game Logic:</h3>
 
 The JavaScript code handles the game's logic and interaction.
 Upon selecting an option (Stone, Paper, or Scissors), the computer randomly chooses its move.
@@ -26,7 +28,11 @@ Scoring:
 
 The current score for both the player and computer is displayed prominently.
 Points are updated dynamically based on the game's results.
-<h3 align="center">How to Play:
+
+
+<h3 align="center">How to Play:</h3>
+
+
 Click on one of the buttons (Stone, Paper, Scissors) to make your move.
 Watch the animated responses of both the player and the computer.
 The winner is determined, and points are updated accordingly.
