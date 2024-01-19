@@ -11,9 +11,9 @@
         <div class="message"></div>
         <div class="images">
             <div class="computer">
-                <img src="./png/stoneComputer.png" class="computerimg">
+                <img src="./stoneComputer.png" class="computerimg">
                 <div class="player">
-                    <img src="./png/stonePlayer.png" class="playerimg">
+                    <img src="./stonePlayer.png" class="playerimg">
                 </div>
             </div>
         </div>
@@ -42,11 +42,11 @@
                     computer.classList.remove("shakeComputer");
                     player.classList.remove("shakePlayer");
 
-                    player.src = "./png/" + option.innerHTML + "Player.png";
+                    player.src = "./" + option.innerHTML + "Player.png";
                     const choice = ["STONE", "PAPER", "SCISSORS"];
                     let ArrayNo = Math.floor(Math.random() * 3);
                     let computerChoice = choice[ArrayNo];
-                    computer.src = "./png/" + computerChoice + "Computer.png";
+                    computer.src = "./" + computerChoice + "Computer.png";
 
                     let cPoints = parseInt(computerPoints.textContent);
                     let pPoints = parseInt(playerPoints.textContent);
